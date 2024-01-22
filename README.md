@@ -1,6 +1,4 @@
 # Online Quiz Project
-This was my team project for the **Database Management System (CSE311)** course. 
-
 
 In this project, we built a **_simple_** website where students can attend quizzes on various subjects. 
 
